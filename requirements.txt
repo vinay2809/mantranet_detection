@@ -1,6 +1,6 @@
+opencv-python
 streamlit
 torch
-torchvision
-opencv-python
-Pillow
+numpy
+pandas
 matplotlib
